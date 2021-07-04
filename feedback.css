@@ -1,0 +1,21 @@
+body {
+  background-image: url("websitebc4.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1
+{
+text-align:center;
+color:white;
+font-family:"Lucida Handwriting"
+}
+
+p{
+  text-align: center;
+  font-family: PT Sans;
+  font-size: 30px;
+}
+
+p{
+  text-align: center;
